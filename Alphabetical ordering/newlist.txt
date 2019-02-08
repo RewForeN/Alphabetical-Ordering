@@ -1,0 +1,6 @@
+Ape
+Cat
+Dog
+Horse
+Human
+Mouse
